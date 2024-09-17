@@ -1,0 +1,22 @@
+{
+  "distroInfo": [
+    {
+      "name": "Debian",
+      "image": "Debian",
+      "version": "Debian",
+      "description": "Debian"
+    },
+    {
+      "name": "Fedora",
+      "image": "Fedora",
+      "version": "Fedora",
+      "description": "Fedora"
+    },
+    {
+      "name": "Slackware",
+      "image": "Slackware",
+      "version": "Slackware",
+      "description": "Slackware"
+    }
+  ]
+}
